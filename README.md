@@ -10,4 +10,4 @@ Check out some of my favorite projects:
 🎮 Simon Says Game
 I’m passionate about creating responsive, user-friendly applications and always eager to learn more. Open to new opportunities, collaborations, and feedback! 🙌
 
-🔗 [Insert your portfolio link here]
+🔗 https://portfolio-nine-neon-67.vercel.app/
